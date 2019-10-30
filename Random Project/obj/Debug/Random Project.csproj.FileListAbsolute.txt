@@ -1,0 +1,9 @@
+\\ghs-file1.lvjusd.k12.ca.us\Student Data\cara.raz1\My Documents\Visual Studio 2015\Projects\Random Project\Random Project\bin\Debug\Random Project.exe.config
+\\ghs-file1.lvjusd.k12.ca.us\Student Data\cara.raz1\My Documents\Visual Studio 2015\Projects\Random Project\Random Project\bin\Debug\Random Project.exe
+\\ghs-file1.lvjusd.k12.ca.us\Student Data\cara.raz1\My Documents\Visual Studio 2015\Projects\Random Project\Random Project\bin\Debug\Random Project.pdb
+\\ghs-file1.lvjusd.k12.ca.us\Student Data\cara.raz1\My Documents\Visual Studio 2015\Projects\Random Project\Random Project\obj\Debug\Random_Project.Form1.resources
+\\ghs-file1.lvjusd.k12.ca.us\Student Data\cara.raz1\My Documents\Visual Studio 2015\Projects\Random Project\Random Project\obj\Debug\Random_Project.Properties.Resources.resources
+\\ghs-file1.lvjusd.k12.ca.us\Student Data\cara.raz1\My Documents\Visual Studio 2015\Projects\Random Project\Random Project\obj\Debug\Random Project.csproj.GenerateResource.Cache
+\\ghs-file1.lvjusd.k12.ca.us\Student Data\cara.raz1\My Documents\Visual Studio 2015\Projects\Random Project\Random Project\obj\Debug\Random Project.exe
+\\ghs-file1.lvjusd.k12.ca.us\Student Data\cara.raz1\My Documents\Visual Studio 2015\Projects\Random Project\Random Project\obj\Debug\Random Project.pdb
+\\ghs-file1.lvjusd.k12.ca.us\Student Data\cara.raz1\My Documents\Visual Studio 2015\Projects\Random Project\Random Project\obj\Debug\Random Project.csprojResolveAssemblyReference.cache
